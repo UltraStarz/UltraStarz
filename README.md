@@ -2,7 +2,7 @@
 
 Agents call a tool, pay for that one call in USDC with [x402](https://x402.org) on Base or Solana (most tools cost under a cent), and get the answer. No accounts, no API keys, and failed calls are never charged.
 
-**Connect:** add `https://extract.tollkit.dev/mcp` to Claude, Cursor or any MCP client · [all tools and prices](https://tollkit.dev/tools) · [llms.txt](https://extract.tollkit.dev/llms.txt)
+**Connect:** add `https://api.tollkit.dev/mcp` to Claude, Cursor or any MCP client · [all tools and prices](https://tollkit.dev/tools) · [llms.txt](https://api.tollkit.dev/llms.txt)
 
 | | What agents get | From |
 |---|---|---|
